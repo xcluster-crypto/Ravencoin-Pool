@@ -1,5 +1,5 @@
 {
-    "enabled": false,
+    "enabled": true,
     "coin": "ravencoin.json",
     "address": "your_wallet_address",
     "donateaddress": "your_wallet_address",
